@@ -1,16 +1,125 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/211756553-731362e6-7ce2-4753-9031-6ec67e4dd336.gif" width="100%" />
+</div>
 
-<!--
-**Vivek80025/Vivek80025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm <span style="color:#6C63FF"><strong>Vivek Jha</strong></span></h1>
+<h3 align="center">Full Stack Java Developer | Spring Boot | Microservices | MySQL | React.js</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:vivek.jha8471@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vivekjha80025"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Vivek80025"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+<div align="center">
+
+🎓 Full Stack Java Developer  
+🚀 Passionate about building scalable apps and clean architecture  
+🧩 Skilled in **Java, Spring Boot, Microservices, REST APIs, JWT Auth, React.js, Docker, and basics of Kafka**  
+🎯 Currently exploring **AI, DevOps, and System Design**
+
+</div>
+
+---
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+
+### 💻 Languages  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+### 🔙 Backend  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microgenetics&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+### 🖥️ Frontend  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+
+### 🗃️ Tools & DevOps  
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🛍️ <strong>E-Commerce Multivendor Platform</strong>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-SpringBoot-blue?style=flat-square&logo=spring" />
+  <img src="https://img.shields.io/badge/MySQL-Relational_DB-brightgreen?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/React-Tailwind_MUI-blueviolet?style=flat-square&logo=react" />
+</p>
+
+🔐 JWT-based role system for Admin, Seller, Buyer  
+💳 Razorpay integration  
+⚛️ 20+ reusable React components  
+🐳 Dockerized backend on Render, frontend on Vercel  
+
+<div align="center">
+  <a href="https://ecommerce-multivendor-liard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vivek80025/ecommerce-multivendor" target="_blank">
+    <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 📚 <strong>Quizzes & Notes App</strong>
+
+<p>
+  <img src="https://img.shields.io/badge/React-Bootstrap-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/SpringBoot-REST_API-green?style=flat-square&logo=spring" />
+</p>
+
+📝 Real-time quiz scoring system  
+🔐 Backend secured with Spring Boot and MySQL  
+📱 Fully responsive design with Bootstrap + React  
+
+<div align="center">
+  <a href="https://ecommerce-multivendor-liard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vivek80025/ecommerce-multivendor" target="_blank">
+    <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+  <a href="mailto:vivek.jha8471@gmail.com"><img src="https://img.shields.io/badge/Gmail-vivek.jha8471@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vivekjha80025"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!" alt="Typing SVG" />
+</p>
+
+<p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
