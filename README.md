@@ -80,7 +80,7 @@
   <a href="https://ecommerce-multivendor-liard.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Vivek80025/ecommerce-multivendor" target="_blank">
+  <a href="https://github.com/Vivek80025/ecommerce_multivendor_project_backend" target="_blank">
     <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -99,10 +99,10 @@
 📱 Fully responsive design with Bootstrap + React  
 
 <div align="center">
-  <a href="https://ecommerce-multivendor-liard.vercel.app/" target="_blank">
+  <a href="https://quizzes-notes-app.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Vivek80025/ecommerce-multivendor" target="_blank">
+  <a href="https://github.com/Vivek80025/quizzes-notes_app" target="_blank">
     <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
