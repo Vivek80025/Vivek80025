@@ -64,7 +64,7 @@
 
 <div align="center">
 
-### 🛍️ <strong>E-Commerce Multivendor Platform</strong>
+### 🛍️ <strong>E-Commerce Multivendor Platform - Viva Bazaar</strong>
 
 <p>
   <img src="https://img.shields.io/badge/Java-SpringBoot-blue?style=flat-square&logo=spring" />
@@ -73,12 +73,13 @@
 </p>
 
 🔐 JWT-based role system for Admin, Seller, Buyer  
-💳 Razorpay integration  
+💳 Razorpay integration
+📊 Sales Analytics with interactive charts using Recharts
 ⚛️ 20+ reusable React components  
-🐳 Dockerized backend on Render, frontend on Vercel  
+🐳 Dockerized Backend on Zeabur, frontend hosted on Vercel  
 
 <div align="center">
-  <a href="https://ecommerce-multivendor-liard.vercel.app/" target="_blank">
+  <a href="https://viva-bazar-ecommerce.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Vivek80025/ecommerce_multivendor_project_backend" target="_blank">
@@ -88,7 +89,26 @@
 
 ---
 
-### 📚 <strong>Quizzes & Notes App</strong>
+### 🪙 <strong>Full-Stack Crypto Trading Platform - Viva Trading</strong>
+<p> <img src="https://img.shields.io/badge/Java-SpringBoot-blue?style=flat-square&logo=spring" /> <img src="https://img.shields.io/badge/MySQL-Database-brightgreen?style=flat-square&logo=mysql" /> <img src="https://img.shields.io/badge/React-Tailwind_shadcn-blueviolet?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/API-CoinGecko-orange?style=flat-square&logo=coingecko" /> </p>
+
+📈 Real-time Market Data via CoinGecko API integration
+
+💰 Secure Wallet System for buying, selling, and holding assets
+
+💳 Razorpay Integration for instant wallet funding
+
+📊 Interactive Charts powered by ApexCharts for price analysis
+
+🔐 JWT Security for safe user sessions and trade execution
+
+🐳 Dockerized Backend on Zeabur, frontend hosted on Vercel
+
+<div align="center"> <a href="https://viva-trading.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/Vivek80025/crypto_trading_backend" target="_blank"> <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+
+---
+
+### 📚 <strong>Quizzes & Notes App - Master Quiz</strong>
 
 <p>
   <img src="https://img.shields.io/badge/React-Bootstrap-blue?style=flat-square&logo=react" />
@@ -100,7 +120,7 @@
 📱 Fully responsive design with Bootstrap + React  
 
 <div align="center">
-  <a href="https://quizzes-notes-app.vercel.app/" target="_blank">
+  <a href="https://quizzes-notes-app.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Vivek80025/quizzes-notes_app" target="_blank">
