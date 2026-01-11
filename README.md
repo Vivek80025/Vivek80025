@@ -72,10 +72,14 @@
   <img src="https://img.shields.io/badge/React-Tailwind_MUI-blueviolet?style=flat-square&logo=react" />
 </p>
 
-🔐 JWT-based role system for Admin, Seller, Buyer  
+🔐 JWT-based role system for Admin, Seller, Buyer
+
 💳 Razorpay integration
+
 📊 Sales Analytics with interactive charts using Recharts
-⚛️ 20+ reusable React components  
+
+⚛️ 20+ reusable React components 
+
 🐳 Dockerized Backend on Zeabur, frontend hosted on Vercel  
 
 <div align="center">
