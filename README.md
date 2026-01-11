@@ -82,7 +82,7 @@
   <a href="https://viva-bazar-ecommerce.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Vivek80025/ecommerce_multivendor_project_backend" target="_blank">
+  <a href="https://github.com/Vivek80025/full_stack_e-commerce_multivendor_project" target="_blank">
     <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -104,7 +104,7 @@
 
 🐳 Dockerized Backend on Zeabur, frontend hosted on Vercel
 
-<div align="center"> <a href="https://viva-trading.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/Vivek80025/crypto_trading_backend" target="_blank"> <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<div align="center"> <a href="https://viva-trading.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/Vivek80025/full_stack_crypto_trading_platform" target="_blank"> <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 
 ---
 
@@ -123,7 +123,7 @@
   <a href="https://quizzes-notes-app.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Vivek80025/quizzes-notes_app" target="_blank">
+  <a href="https://github.com/Vivek80025/full_stack_quizzes-notes_project" target="_blank">
     <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
