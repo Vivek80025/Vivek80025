@@ -119,8 +119,10 @@
   <img src="https://img.shields.io/badge/SpringBoot-REST_API-green?style=flat-square&logo=spring" />
 </p>
 
-📝 Real-time quiz scoring system  
-🔐 Backend secured with Spring Boot and MySQL  
+📝 Real-time quiz scoring system
+
+🔐 Backend secured with Spring Boot and MySQL
+
 📱 Fully responsive design with Bootstrap + React  
 
 <div align="center">
